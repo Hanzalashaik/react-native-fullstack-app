@@ -5,8 +5,7 @@ This is a full-stack mobile application built with React Native for the frontend
 ### Clone the repo first
 
 ```bash
-git clone git@github.com:Hanzalashaik/project-management-mern.git
-cd project-management-mern
+git clone git@github.com:Hanzalashaik/react-native-fullstack-app.git
 ```
 
 ## Client Setup
@@ -18,7 +17,7 @@ cd client
 2. Install the dependencies:
    
 ```bash
-  npm install
+npm install
 ```
 3. Start the Expo development server:
    
